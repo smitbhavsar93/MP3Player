@@ -1,4 +1,5 @@
 # MP3Player
+One of my first GUI (graphical user interface) programs I coded with a lot of assistance with my high school computer science teacher. In the end, it works to a certain extent, but considering I wasn't even legal to drive at the time, you can cut me some slack on this one.
 
 ## How to run code
 For this code to work, drag and drop the .java files into any java programming compiler, the code for us was written on a software called Eclipse. There are two 
